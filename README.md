@@ -1,16 +1,13 @@
-## Hi there 👋
+# John Evans
 
-<!--
-**jevans1374/jevans1374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use Claude Code to prototype full-stack apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## VisionOS
+
+Practice management app for optometrists. Covers patient intake, optical orders, scheduling, clinical exams, and insurance claims.
+
+Built this to work through multi-tenant data isolation, role-based permissions, insurance integrations, patient communications, audit logging.
+
+**Stack:** Next.js · PostgreSQL · Clerk · Twilio ·  Vercel

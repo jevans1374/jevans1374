@@ -22,7 +22,7 @@ Most optical systems are fragmented across EHR, billing, and retail workflows. T
 
 ![Dashboard](docs/images/dashboard.png)
 
-## What this demonstrates
+## Overview
 
 - Patient lookup and recent activity
 - Daily sales and payment tracking

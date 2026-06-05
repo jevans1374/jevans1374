@@ -1,6 +1,6 @@
 # John Evans
 
-I use Claude Code to prototype full-stack apps.
+I use Claude Code and Codex to prototype full-stack apps.
 
 ---
 
@@ -10,7 +10,7 @@ Practice management app for optometrists. Covers patient intake, optical orders,
 
 Built this to work through multi-tenant data isolation, role-based permissions, insurance integrations, patient communications, audit logging.
 
-**Stack:** Next.js · PostgreSQL · Clerk · Twilio ·  Vercel
+**Stack:** Next.js · PostgreSQL · Twilio ·  Vercel
 
 
 # Optical Practice Management Dashboard
